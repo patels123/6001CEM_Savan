@@ -102,7 +102,7 @@ Stock markets are inherently volatile, and accurate predictions can greatly bene
 
 ## 📚 References
 
-This project references 17 academic papers and articles. See full list in the [`References`](./References.md) section of the dissertation.
+This project references 27 academic papers and articles.
 
 ---
 
