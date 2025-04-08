@@ -49,7 +49,7 @@ Stock markets are inherently volatile, and accurate predictions can greatly bene
 
 ## 🔍 Dataset
 
-- Source: [Kaggle – HSBC Stock Historical Data](https://www.kaggle.com/)
+- Source: https://fame-r1.bvdinfo.com/version-20250318-2-0/fame/1/Companies/report/Index?backLabel=Back%20to%20Contents&format=_standard&BookSection=PROFILE&seq=0&sl=1744155987460
 - Features used: `Open`, `High`, `Low`, `Close`, `Volume`, `Market Cap`
 - Time Range: May 2010 – April 2025  
 - Total Records: ~3720
