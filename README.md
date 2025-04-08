@@ -37,7 +37,7 @@ Stock markets are inherently volatile, and accurate predictions can greatly bene
 
 | Model                | RMSE   | MAE   | R² Score |
 |---------------------|--------|-------|----------|
-| ARIMA               | 1.21   | 0.96  | 0.64     |
+| ARIMA               | 1.21   | 0.96  | -1.02     |
 | Linear Regression   | 0.21   | 0.17  | 0.94     |
 | Support Vector Machine | 0.30 | 0.22  | 0.87     |
 | Random Forest       | 0.31   | 0.24  | 0.86     |
